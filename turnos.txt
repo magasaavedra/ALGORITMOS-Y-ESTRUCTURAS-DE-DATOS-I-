@@ -1,0 +1,67 @@
+AGUILAR;2;3;10;Sede Belgrano
+ALCAIDE;1;8;10;Sede Belgrano
+ALCANTARA;2;1;115;Sede Palermo
+ANDRES;2;8;120;Sede Recoleta
+ARAUJO;1;19;10;Sede Belgrano
+ARENAS;1;9;10;Sede Belgrano
+AVILES;2;22;115;Sede Palermo
+BARRIO;3;12;120;Sede Recoleta
+BENITEZ;1;14;10;Sede Belgrano
+BRAVO;3;22;120;Sede Recoleta
+CALDERON;1;20;10;Sede Belgrano
+CALVO;2;10;10;Sede Belgrano
+CANOVAS;1;10;10;Sede Belgrano
+CARDONA;1;7;10;Sede Belgrano
+CARMONA;1;11;10;Sede Belgrano
+CASADO;2;5;120;Sede Recoleta
+CHAMORRO;1;4;10;Sede Belgrano
+CONDE;4;13;10;Sede Belgrano
+CUADRADO;1;12;10;Sede Belgrano
+DE MIGUEL;1;6;10;Sede Belgrano
+DURAN;2;15;115;Sede Palermo
+ESPEJO;3;6;10;Sede Belgrano
+EXPOSITO;1;1;10;Sede Belgrano
+FERRERO;2;12;10;Sede Belgrano
+LEAL;1;26;10;Sede Belgrano
+MENDOZA;3;1;25;Sede Caballito
+MERINO;2;3;115;Sede Palermo
+MORENO;3;16;115;Sede Palermo
+MOYANO;1;16;10;Sede Belgrano
+MURILLO;1;18;10;Sede Belgrano
+NARANJO;3;17;115;Sede Palermo
+NAVAS;1;23;10;Sede Belgrano
+OLMEDO;1;27;10;Sede Belgrano
+ORTEGA;1;25;10;Sede Belgrano
+PEREZ;1;22;10;Sede Belgrano
+PINEDA;2;2;10;Sede Belgrano
+PIZARRO;3;10;120;Sede Recoleta
+POLO;4;6;120;Sede Recoleta
+PORTILLO;2;4;115;Sede Palermo
+PUENTE;1;30;10;Sede Belgrano
+PULIDO;1;3;10;Sede Belgrano
+REDONDO;1;28;10;Sede Belgrano
+RICO;3;30;10;Sede Belgrano
+ROMAN;1;17;10;Sede Belgrano
+SAENZ;1;31;10;Sede Belgrano
+SALGADO;1;24;10;Sede Belgrano
+SANTANA;1;2;10;Sede Belgrano
+SANTOS;2;20;10;Sede Belgrano
+SASTRE;1;15;10;Sede Belgrano
+SOLE;1;21;10;Sede Belgrano
+SORIA;2;6;120;Sede Recoleta
+SOTO;1;13;10;Sede Belgrano
+TIRADO;1;5;10;Sede Belgrano
+TOMAS;2;4;25;Sede Caballito
+VALDES;3;18;115;Sede Palermo
+VALENCIA;2;13;25;Sede Caballito
+VAQUERO;2;2;120;Sede Recoleta
+VARELA;1;29;10;Sede Belgrano
+VILLALBA;2;2;115;Sede Palermo
+SEBASTIAN;2;5;25;Sede Caballito
+THEO RUSCHANOFF;4;5;25;Sede Caballito
+AVERIA JUAN;6;30;25;Sede Caballito
+ESTELA;2;5;115;Sede Palermo
+MELANI;12;30;120;Sede Recoleta
+THEO RUSCHANOFF;3;3;25;Sede Caballito
+MARIA ELENA;12;12;120;Sede Recoleta
+JUAREZ;5;12;30;Sede San Telmo

@@ -1,0 +1,51 @@
+Gabriela;Fernandez;8741026;10;41;71;87;10;25
+Carolina;Perez;18012517;82;14;0;61;5;438
+Gabriela;Paez;26126084;53;68;82;19;77;35
+Juan;Marmol;10743294;30;74;67;37;47;3
+Carmen;Fernandez;1193638;47;44;10;61;0;5
+Consuelo;Paez;36675012;13;36;87;23;32;1
+Andres;Da Silva;19216993;71;8;16;74;73;36
+Sofia;Gonzalez;1290643;46;24;50;77;49;69
+Marcela;Fernandez;35440922;76;74;57;66;34;7
+Fernando;Smith;4188452;2;59;55;44;24;31
+Gabriela;Hernandez;5598868;86;66;59;7;63;84
+Mario;Da Silva;32484942;37;40;62;80;78;86
+Gabriel;Gonzalez;26469175;74;1;25;73;10;69
+Mirtha;Hernandez;19525947;37;5;31;12;35;41
+Sofia;Smith;26568300;66;63;15;52;82;78
+Consuelo;Fernandez;8458073;35;54;19;4;51;43
+Andres;Fernandez;7749758;62;57;40;13;90;27
+Natalia;Marmol;16180038;77;18;80;55;56;0
+Veronica;Marmol;33441306;33;57;4;11;1;72
+Mirtha;Paez;18381563;3;71;47;16;63;61
+Marcelo;Smith;22072189;22;56;47;27;78;87
+Sofia;Paez;9934796;29;19;86;32;64;45
+Sofia;Pinilla;30162745;73;90;10;30;73;66
+Gabriel;Da Silva;21662067;67;43;66;6;86;52
+Marcela;Perez;36155575;58;87;37;24;4;18
+Carmen;Paez;27118595;18;23;60;82;11;17
+Mirtha;Gonzalez;10018697;10;41;71;87;10;25
+Mario;Marmol;24016436;82;14;0;61;5;48
+Sofia;Fernandez;21175158;53;68;82;19;77;35
+Gabriel;Marmol;32626763;30;74;67;37;47;3
+Raquel;Da Silva;37766283;47;44;10;61;0;5
+Andres;Hernandez;24794794;13;36;87;23;32;1
+Diego;Smith;26116554;71;8;16;74;73;36
+Carolina;Pinilla;1615213;46;24;50;77;49;69
+Marcelo;Pinilla;19875274;76;74;57;66;34;7
+Marcelo;Da Silva;32732393;2;59;55;44;24;31
+Juan;Paez;21787037;86;66;59;7;63;84
+Diego;Pinilla;7940041;10;41;71;87;10;25
+Natalia;Da Silva;2986250;82;14;0;61;5;48
+Andres;Picapiedra;16273022;53;68;82;19;77;35
+Carolina;Hernandez;29485403;30;74;67;37;47;3
+Ana;Smith;9726741;47;44;10;61;0;5
+Fernando;Gonzalez;25361260;13;36;87;23;32;1
+Carmen;Gonzalez;21826693;71;8;16;74;73;36
+Ana;Pinilla;26833192;46;24;50;77;49;69
+Fernando;Marmol;16260180;76;74;57;66;34;7
+Carmen;Smith;36787783;2;59;55;44;24;31
+Consuelo;Picapiedra;5063473;86;66;59;7;63;84
+Diego;Da Silva;5435934;10;41;71;87;10;25
+Natalia;García;33333333;17;28;33;35;44;90
+Magali;Saavedra;40856067;21;12;4;18;6;88
